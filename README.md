@@ -16,17 +16,17 @@ To run spotify admin Type **npm run dev** in the terminal.
 
 # RESULT:
 Database connectivity:
-![image](https://github.com/user-attachments/assets/0b6c4bed-b440-4576-a16d-f6da5adb9b36)
+![image](https://github.com/user-attachments/assets/72819bb3-df95-4193-8eb7-1495a5383411)
+
 
 **Spotify-clone(Frontend):**
 •	Have the featured Charts (Albums created by Admin)
 •	Have music on today’s Biggest hits
 •	Song can be played
 •	User can go to the previous, next songs buy navigating
+![image](https://github.com/user-attachments/assets/80c0c6bb-c696-44a1-adc0-2d210192b221)
+![image](https://github.com/user-attachments/assets/e0c87eaf-eeb4-4fb4-a4fd-14099c8807b4)
 
-![image](https://github.com/user-attachments/assets/672492c4-50ed-4aeb-a250-68f903017e8b)
-
-![image](https://github.com/user-attachments/assets/49f431e5-7fa3-4cbb-8226-ff89cee3c3c5)
 
 **Spotify - backend:**
 This the place were the spotify clone is connected to the database
