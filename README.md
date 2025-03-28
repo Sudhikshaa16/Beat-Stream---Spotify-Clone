@@ -31,14 +31,15 @@ Database connectivity:
 **Spotify - backend:**
 This the place were the spotify clone is connected to the database
 Insomnia software is an open-source , cross-platform Api client, we can check whether API is working or not 
+![image](https://github.com/user-attachments/assets/af78bf0e-ed05-4bb5-87a9-6a4f1bf7e294)
+![Screenshot 2025-03-26 204705](https://github.com/user-attachments/assets/595b8f79-faac-4bee-8f1b-6217131dfcd2)
 
-![image](https://github.com/user-attachments/assets/a9f3e0d7-342d-46f5-8562-61638df9c84e)
-![image](https://github.com/user-attachments/assets/a26cab29-64d9-48ed-949d-8df232bd5b0e)
+
 
 **Spotify-Admin:**
 This is the place where Admin can upload and delete songs and Albums
 
-![image](https://github.com/user-attachments/assets/38f74d5b-85ba-4c73-b257-9f6d85b81f00)
+![image](https://github.com/user-attachments/assets/7e080f24-9736-4372-a8b2-732171ee7f52)
 
 
 
